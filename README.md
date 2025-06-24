@@ -2,9 +2,6 @@
 
 Este é um projeto completo de uma plataforma de petshop, desenvolvido com HTML, CSS, Bootstrap. A aplicação oferece uma landing page inicial, navegação para produtos, telas de criação de conta e login, além de um sistema para agendamento de horários via modal.
 
-## Visualize o projeto
-
-[bootstrap-petshop-page](https://larissakich.github.io/bootstrap-petshop-page/)
 
 ## Funcionalidades
 
@@ -16,7 +13,6 @@ Este é um projeto completo de uma plataforma de petshop, desenvolvido com HTML,
 
 ## Visualize o projeto
 
-(https://larissakich.github.io/bootstrap-petshop-page/)
 
 ## Tecnologias Utilizadas
 
@@ -25,11 +21,3 @@ Este é um projeto completo de uma plataforma de petshop, desenvolvido com HTML,
 - **HTML e CSS**: Para a estruturação e customização.
 - **JavaScript**: Para funcionalidades interativas, como o modal de agendamento.
 
-## Pré-requisitos
-
-- Navegador web moderno para acessar a aplicação.
-- Conexão à internet para carregar as bibliotecas do Bootstrap e FontAwesome via CDN.
-
-## Autor
-
-Larissa Vitória Kich - larissakich04@gmail.com
